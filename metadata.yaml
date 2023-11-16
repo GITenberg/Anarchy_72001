@@ -1,11 +1,16 @@
 _repo: Anarchy_72001
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72001-h/images/cover.jpg
 creator:
   author:
     agent_name: LeFevre, Robert
     gutenberg_agent_id: '56491'
     url: http://www.gutenberg.org/2009/agents/56491
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72001#Anarchy
 gutenberg_issued: '2023-11-01'
 identifiers:
   gutenberg: '72001'
